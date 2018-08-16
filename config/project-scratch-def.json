@@ -1,0 +1,14 @@
+{
+  "country": "US",
+  "edition": "Developer",
+  "username": "tdebug@abc.com",
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": []
+  },
+  "orgName": "devsbx",
+  "adminEmail": "nextgen.joaa@gmail.com",
+  "features": "DebugApex"
+}
