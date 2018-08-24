@@ -2,14 +2,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936747,
             "changeTime": 1534791936747,
             "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936711,
             "changeTime": 1534791936711,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936739,
             "changeTime": 1534791936739,
             "contentHash": "0323463dad08ef0d11bd61c3238a2ab537358d69",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936723,
             "changeTime": 1534791936723,
             "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -66,25 +66,23 @@
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 957,
-            "modifiedTime": 1534791936719,
-            "changeTime": 1534791936719,
-            "contentHash": "d0ebcdcf7038d0fe886fcbe5b60d1e90d1d40951",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 1872,
+            "modifiedTime": 1534973656078,
+            "changeTime": 1534973656078,
+            "contentHash": "070886bed57246ad5fac1e66636cee2c98f21fab"
         }
     ],
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 177,
             "modifiedTime": 1534791936724,
             "changeTime": 1534791936724,
             "contentHash": "d1db78898fac7cd8e7bf53bbf5f457c59318d685",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,29 +90,27 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1534791936737,
-            "changeTime": 1534791936737,
-            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1534966745802,
+            "changeTime": 1534966745802,
+            "contentHash": "dc937ba52760835665af9d630c247f39604312d0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1589,
             "modifiedTime": 1534791936732,
             "changeTime": 1534791936732,
             "contentHash": "40b01ddd0e7400a56f2aec05d63fa7cacbe5cdf3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +118,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\DemoPage.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 281,
             "modifiedTime": 1534791936737,
             "changeTime": 1534791936737,
             "contentHash": "191b7b49953e47befa9a2b51cc0cd52158c35eb0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +133,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936744,
             "changeTime": 1534791936744,
             "contentHash": "7e02ae8562673a4f4dfaf75e0b8ce41925fea427",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +148,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\permissionsets\\Debug_Apex.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\permissionsets\\Debug_Apex.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 23002,
             "modifiedTime": 1534791936745,
             "changeTime": 1534791936745,
             "contentHash": "48a1bcf9eedeb7d0f9dfd7d3fea545981057f327",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +163,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936749,
             "changeTime": 1534791936749,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +178,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936751,
             "changeTime": 1534791936751,
             "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +193,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534791936759,
             "changeTime": 1534791936759,
             "contentHash": "5144f1861400212c6d4a274d925b0ff04bede7bb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,14 +208,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 653,
             "modifiedTime": 1534791936757,
             "changeTime": 1534791936757,
             "contentHash": "12dc84af33edd0000600a1d9ca52a72cebf3cedd",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +223,14 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\test\\default\\classes\\DemoControllerTests.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 179,
             "modifiedTime": 1534791936760,
             "changeTime": 1534791936760,
             "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,16 +238,41 @@
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1534791936765,
-            "changeTime": 1534799808960,
-            "contentHash": "fcc8ba4e8d0fec77ded0a8b896edf788bfeb5743",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "modifiedTime": 1534874776290,
+            "changeTime": 1534874776290,
+            "contentHash": "27922047d0e1aff6e11f6ee4817abc25c12ada99",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\srccnt.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\srccnt.page-meta.xml",
+            "isDirectory": false,
+            "size": 282,
+            "modifiedTime": 1534966745786,
+            "changeTime": 1534966745786,
+            "contentHash": "b7560e4fac3d42645e0fd23ff0da244dedb33728",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\srccnt.page",
+        {
+            "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\srccnt.page",
+            "isDirectory": false,
+            "size": 1338,
+            "modifiedTime": 1534968552083,
+            "changeTime": 1534968552083,
+            "contentHash": "85b1a9c0565e84d059aff44c588a404fb4ae1cd8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

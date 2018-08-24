@@ -1,0 +1,46 @@
+<apex:page controller="DemoController">
+  <!-- Page Header -->
+  <apex:sectionHeader title="" subtitle="Debugger Demo" />
+  <apex:image value="http://bit.ly/17iLknp" styleClass="logo" />
+
+  <!-- Begin Form -->
+  <apex:form >
+    <apex:pageBlock title="Contacts" mode="edit">
+      <apex:pageBlockTable value="{!Contacts}" var="cnts" cellPadding="4" border="1"> 
+          <apex:column value="{!cnts.FirstName}"/>
+          <apex:column value="{!cnts.LastName}"/>
+      </apex:pageBlockTable>
+
+      <!-- Fields -->
+      <apex:pageBlockSection columns="3" showHeader="true" title="Contact Search">
+        <apex:inputText styleClass="firstName" value="{!FirstName}" />
+        <apex:inputText styleClass="lastName" value="{!LastName}"  />
+      </apex:pageBlockSection>
+
+      <!-- Button Section -->
+      <apex:pageBlockButtons location="bottom">
+        <apex:commandButton value="Search" action="{!searchcontact}">
+      </apex:commandButton>
+
+      </apex:pageBlockButtons>
+    </apex:pageBlock>
+  </apex:form>
+
+  <!-- CSS -->
+  <style>
+    .logo {
+      float: right;
+      width: 60px;
+      margin: -65px 20px 0 0;
+    }
+    .rules {
+      color: red;
+      font-size: 18px;
+      font-family: Courier;
+      margin: 10px 30px 30px 30px;
+      float: left;
+      line-height: 10px;
+      width: 100%;
+    }
+  </style>
+</apex:page>
