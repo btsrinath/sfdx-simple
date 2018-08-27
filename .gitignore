@@ -1,3 +1,5 @@
 
 *.db
 *.bak
+.sfdx/orgs/apexdbug@abc.com/sourcePathInfos.json
+*.db

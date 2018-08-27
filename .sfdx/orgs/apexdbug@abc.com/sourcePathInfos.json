@@ -50,26 +50,25 @@
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1534791936723,
-            "changeTime": 1534791936723,
-            "contentHash": "76e289d2d4d831eba496e8b44dc7ba02f2756b15",
+            "modifiedTime": 1535141288835,
+            "changeTime": 1535141288835,
+            "contentHash": "a31bcd9c8b52bf1777734b9b13b51c338a0dbb49",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\DemoController.cls",
             "isDirectory": false,
+            "size": 927,
+            "modifiedTime": 1535141871849,
+            "changeTime": 1535141871849,
+            "contentHash": "a4d3d7f41b04d4a791b78a443199f95354288d08",
             "isMetadataFile": false,
-            "size": 1872,
-            "modifiedTime": 1534973656078,
-            "changeTime": 1534973656078,
-            "contentHash": "070886bed57246ad5fac1e66636cee2c98f21fab"
+            "state": "u"
         }
     ],
     [
@@ -267,11 +266,37 @@
         {
             "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\pages\\srccnt.page",
             "isDirectory": false,
-            "size": 1338,
-            "modifiedTime": 1534968552083,
-            "changeTime": 1534968552083,
-            "contentHash": "85b1a9c0565e84d059aff44c588a404fb4ae1cd8",
+            "size": 1550,
+            "modifiedTime": 1535234190953,
+            "changeTime": 1535234190953,
+            "contentHash": "1bd1c11d58b0d9e959e9aa6c2d6d5555a377afd3",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\SearchContactController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\SearchContactController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1089,
+            "modifiedTime": 1535240069757,
+            "changeTime": 1535240069757,
+            "contentHash": "04706e63168bd7a2e242bc3471a5c8ffd1897af7"
+        }
+    ],
+    [
+        "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\SearchContactController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sthimmasetty\\sfdx-simple\\force-app\\main\\default\\classes\\SearchContactController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 177,
+            "modifiedTime": 1534791936724,
+            "changeTime": 1535141297075,
+            "contentHash": "d1db78898fac7cd8e7bf53bbf5f457c59318d685",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]

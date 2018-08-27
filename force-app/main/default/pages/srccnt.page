@@ -1,4 +1,4 @@
-<apex:page controller="DemoController">
+<apex:page controller="SearchContactController">
   <!-- Page Header -->
   <apex:sectionHeader title="" subtitle="Debugger Demo" />
   <apex:image value="http://bit.ly/17iLknp" styleClass="logo" />
@@ -6,15 +6,22 @@
   <!-- Begin Form -->
   <apex:form >
     <apex:pageBlock title="Contacts" mode="edit">
+        <apex:pageMessages/>
+
       <apex:pageBlockTable value="{!Contacts}" var="cnts" cellPadding="4" border="1"> 
           <apex:column value="{!cnts.FirstName}"/>
           <apex:column value="{!cnts.LastName}"/>
       </apex:pageBlockTable>
 
       <!-- Fields -->
-      <apex:pageBlockSection columns="3" showHeader="true" title="Contact Search">
-        <apex:inputText styleClass="firstName" value="{!FirstName}" />
-        <apex:inputText styleClass="lastName" value="{!LastName}"  />
+      <apex:pageBlockSection columns="2" showHeader="true" title="Contact Search">
+        <apex:inputText styleClass="firstName" value="{!FirstName}">
+            <apex:outputLabel>First Name: </apex:outputLabel> 
+        </apex:inputText>
+
+        <apex:inputText styleClass="lastName" value="{!LastName}">
+            <apex:outputLabel>Last Name: </apex:outputLabel> 
+        </apex:inputText>
       </apex:pageBlockSection>
 
       <!-- Button Section -->
