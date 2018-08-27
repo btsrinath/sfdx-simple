@@ -1,5 +1,7 @@
-
-*.db
-*.bak
-.sfdx/orgs/apexdbug@abc.com/sourcePathInfos.json
-*.db
+.DS_Store
+.sfdx
+.project
+.salesforce
+.settings
+node_modules
+.idea
